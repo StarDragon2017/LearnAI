@@ -5,3 +5,7 @@
 /LearnAI/.vs
 /LearnAI/CallAIApi/bin/Debug/net10.0
 /LearnAI/CallAIApi/obj
+/LearnAI/CallLocalAIApi/bin/Debug/net10.0
+/LearnAI/CallLocalAIApi/obj
+/LearnAI/CallLocalAIByMS/bin/Debug/net10.0
+/LearnAI/CallLocalAIByMS/obj
