@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="CallAIApi/CallAIApi.csproj" />
+  <Project Path="CallLocalAIApi/CallLocalAIApi.csproj" />
+  <Project Path="CallLocalAIByMS/CallLocalAIByMS.csproj" Id="e801fd7b-1a08-4343-a020-0d4bc25f3f30" />
 </Solution>

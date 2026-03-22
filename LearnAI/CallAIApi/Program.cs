@@ -20,6 +20,11 @@ var requestBody = new
     {
         messages = new[]
         {
+            //new
+            //{
+            //    role = "system",
+            //    content = "你是一个专业的C#编程助手，回答问题简洁明了。"
+            //},
             new
             {
                 role = "user",
