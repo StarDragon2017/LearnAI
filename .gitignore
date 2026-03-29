@@ -9,3 +9,6 @@
 /LearnAI/CallLocalAIApi/obj
 /LearnAI/CallLocalAIByMS/bin/Debug/net10.0
 /LearnAI/CallLocalAIByMS/obj
+/LearnAI/ChatDemoByQdrant/appsettings.json
+/LearnAI/ChatDemoByQdrant/bin/Debug/net10.0
+/LearnAI/ChatDemoByQdrant/obj
